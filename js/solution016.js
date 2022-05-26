@@ -1,4 +1,4 @@
-// Write here your multiply-function
+// Function 3 - multiplying two numbers
 
 function multiply(a, b) {
   return a * b;
